@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/52/trunk/WebUI/Views/Shared
+END
+cruds_.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/cruds_.ascx
+END
+deletebtn.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/WebUI/Views/Shared/deletebtn.cshtml
+END
+login.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/WebUI/Views/Shared/login.ascx
+END
+_Layout.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/52/trunk/WebUI/Views/Shared/_Layout.cshtml
+END
+doggy.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/37/trunk/WebUI/Views/Shared/doggy.ascx
+END
+cruds.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/WebUI/Views/Shared/cruds.cshtml
+END
+hrow_.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/WebUI/Views/Shared/hrow_.ascx
+END

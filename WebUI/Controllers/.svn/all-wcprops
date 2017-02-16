@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/50/trunk/WebUI/Controllers
+END
+CountryIdAjaxDropdownController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/WebUI/Controllers/CountryIdAjaxDropdownController.cs
+END
+FormAuthService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/42/trunk/WebUI/Controllers/FormAuthService.cs
+END
+CountryController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/44/trunk/WebUI/Controllers/CountryController.cs
+END
+ChefController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44/trunk/WebUI/Controllers/ChefController.cs
+END
+ChangeThemeController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/50/trunk/WebUI/Controllers/ChangeThemeController.cs
+END
+DoggyController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/32/trunk/WebUI/Controllers/DoggyController.cs
+END
+CountryIdLookupController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/WebUI/Controllers/CountryIdLookupController.cs
+END
+BaseController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/WebUI/Controllers/BaseController.cs
+END
+MealController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44/trunk/WebUI/Controllers/MealController.cs
+END
+RolesLookupController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32/trunk/WebUI/Controllers/RolesLookupController.cs
+END
+UserController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44/trunk/WebUI/Controllers/UserController.cs
+END
+DinnerController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/44/trunk/WebUI/Controllers/DinnerController.cs
+END
+Cruder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/44/trunk/WebUI/Controllers/Cruder.cs
+END
+NavController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/WebUI/Controllers/NavController.cs
+END
+Crudere.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/49/trunk/WebUI/Controllers/Crudere.cs
+END
+ChefAjaxDropdownController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/WebUI/Controllers/ChefAjaxDropdownController.cs
+END
+StuffController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7/trunk/WebUI/Controllers/StuffController.cs
+END
+PersonAutocompleteController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/WebUI/Controllers/PersonAutocompleteController.cs
+END
+ErrorController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/32/trunk/WebUI/Controllers/ErrorController.cs
+END
+MuiController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/WebUI/Controllers/MuiController.cs
+END
+MealsLookupController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/trunk/WebUI/Controllers/MealsLookupController.cs
+END
+AccountController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32/trunk/WebUI/Controllers/AccountController.cs
+END

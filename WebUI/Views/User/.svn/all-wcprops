@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/22/trunk/WebUI/Views/User
+END
+rows.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/WebUI/Views/User/rows.cshtml
+END
+searchBox.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/WebUI/Views/User/searchBox.cshtml
+END
+hrow.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/WebUI/Views/User/hrow.cshtml
+END
+Create.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/22/trunk/WebUI/Views/User/Create.cshtml
+END
+edit.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/WebUI/Views/User/edit.cshtml
+END
+ChangePassword.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21/trunk/WebUI/Views/User/ChangePassword.cshtml
+END
+header.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/WebUI/Views/User/header.cshtml
+END

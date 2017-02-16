@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/37/trunk/Data
+END
+UniRepo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/22/trunk/Data/UniRepo.cs
+END
+DbContextFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/Data/DbContextFactory.cs
+END
+Data.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/32/trunk/Data/Data.csproj
+END
+Repo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/37/trunk/Data/Repo.cs
+END
+Db.cs
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/32/trunk/Data/Db.cs
+END
+DelRepo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/32/trunk/Data/DelRepo.cs
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/32/trunk/Data/packages.config
+END

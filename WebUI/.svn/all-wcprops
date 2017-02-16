@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/52/trunk/WebUI
+END
+WebUI.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/50/trunk/WebUI/WebUI.csproj
+END
+WindsorConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/trunk/WebUI/WindsorConfigurator.cs
+END
+JQueryUiDatePickerHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/trunk/WebUI/JQueryUiDatePickerHelper.cs
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/50/trunk/WebUI/Web.config
+END
+CastleWindsorControllerFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/WebUI/CastleWindsorControllerFactory.cs
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/50/trunk/WebUI/packages.config
+END
+RouteConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11/trunk/WebUI/RouteConfigurator.cs
+END
+InputHelpers.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/WebUI/InputHelpers.cs
+END
+AwesomeConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/trunk/WebUI/AwesomeConfigurator.cs
+END
+WebUI.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5/trunk/WebUI/WebUI.csproj.user
+END
+Bootstrapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/26/trunk/WebUI/Bootstrapper.cs
+END
+! mvc project awesome readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/44/trunk/WebUI/!%20mvc%20project%20awesome%20readme.txt
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/WebUI/Global.asax
+END
+f.ico
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/15/trunk/WebUI/f.ico
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/44/trunk/WebUI/Global.asax.cs
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/WebUI/Web.Release.config
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/WebUI/Web.Debug.config
+END

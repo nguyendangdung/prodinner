@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/21/trunk/WebUI/Views/Chef
+END
+Create.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/WebUI/Views/Chef/Create.cshtml
+END
+header.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8/trunk/WebUI/Views/Chef/header.cshtml
+END
+rows.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/WebUI/Views/Chef/rows.cshtml
+END
+searchBox.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/WebUI/Views/Chef/searchBox.cshtml
+END
+hrow.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/WebUI/Views/Chef/hrow.cshtml
+END

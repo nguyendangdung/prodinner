@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/42/trunk/WebUI/Views/Meal
+END
+ochangepicture.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/trunk/WebUI/Views/Meal/ochangepicture.cshtml
+END
+searchBox.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/36/trunk/WebUI/Views/Meal/searchBox.ascx
+END
+ocrop.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/36/trunk/WebUI/Views/Meal/ocrop.cshtml
+END
+Create.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8/trunk/WebUI/Views/Meal/Create.cshtml
+END
+ChangePicture.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/42/trunk/WebUI/Views/Meal/ChangePicture.ascx
+END
+rows.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/41/trunk/WebUI/Views/Meal/rows.cshtml
+END
+header.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/36/trunk/WebUI/Views/Meal/header.ascx
+END

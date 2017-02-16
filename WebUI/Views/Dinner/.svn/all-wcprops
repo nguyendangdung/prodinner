@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/44/trunk/WebUI/Views/Dinner
+END
+header.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/WebUI/Views/Dinner/header.cshtml
+END
+About.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/38/trunk/WebUI/Views/Dinner/About.cshtml
+END
+rows.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/trunk/WebUI/Views/Dinner/rows.ascx
+END
+searchBox.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/WebUI/Views/Dinner/searchBox.cshtml
+END
+Create.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/trunk/WebUI/Views/Dinner/Create.cshtml
+END

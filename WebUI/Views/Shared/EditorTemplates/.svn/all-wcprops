@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/EditorTemplates
+END
+Decimal.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/WebUI/Views/Shared/EditorTemplates/Decimal.aspx
+END
+Boolean.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/WebUI/Views/Shared/EditorTemplates/Boolean.aspx
+END
+AjaxDropdown.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/WebUI/Views/Shared/EditorTemplates/AjaxDropdown.aspx
+END
+Autocomplete.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/WebUI/Views/Shared/EditorTemplates/Autocomplete.aspx
+END
+Password.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/WebUI/Views/Shared/EditorTemplates/Password.aspx
+END
+Enum.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/WebUI/Views/Shared/EditorTemplates/Enum.aspx
+END
+String.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/WebUI/Views/Shared/EditorTemplates/String.aspx
+END
+Lookup.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/WebUI/Views/Shared/EditorTemplates/Lookup.aspx
+END
+Template.Master
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/WebUI/Views/Shared/EditorTemplates/Template.Master
+END
+Dropdown.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/WebUI/Views/Shared/EditorTemplates/Dropdown.aspx
+END
+DateTime.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/EditorTemplates/DateTime.aspx
+END

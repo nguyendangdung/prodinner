@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/32/trunk/Infra
+END
+WindsorRegistrar.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/20/trunk/Infra/WindsorRegistrar.cs
+END
+Infra.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/32/trunk/Infra/Infra.csproj
+END
+IoC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/Infra/IoC.cs
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/Infra/packages.config
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/Awesome
+END
+SearchForm.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/18/trunk/WebUI/Views/Shared/Awesome/SearchForm.ascx
+END
+Lookup.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/Awesome/Lookup.ascx
+END
+LookupPopup.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/Awesome/LookupPopup.ascx
+END
+Confirm.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/Awesome/Confirm.ascx
+END
+AjaxRadioList.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/Awesome/AjaxRadioList.ascx
+END
+AjaxDropdown.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/Awesome/AjaxDropdown.ascx
+END
+Autocomplete.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/Awesome/Autocomplete.ascx
+END
+Popup.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/Awesome/Popup.ascx
+END
+MultiLookup.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/Awesome/MultiLookup.ascx
+END
+LookupList.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/WebUI/Views/Shared/Awesome/LookupList.ascx
+END
+AjaxCheckBoxList.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/Awesome/AjaxCheckBoxList.ascx
+END
+PopupForm.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/Awesome/PopupForm.ascx
+END
+header.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/WebUI/Views/Shared/Awesome/header.ascx
+END
+MultiLookupPopup.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/44/trunk/WebUI/Views/Shared/Awesome/MultiLookupPopup.ascx
+END

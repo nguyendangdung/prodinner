@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/47/trunk/Service
+END
+FileManagerService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/42/trunk/Service/FileManagerService.cs
+END
+Service.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/trunk/Service/Service.csproj
+END
+CrudService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/trunk/Service/CrudService.cs
+END
+MealService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/35/trunk/Service/MealService.cs
+END
+UserService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/Service/UserService.cs
+END

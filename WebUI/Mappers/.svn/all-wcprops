@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/49/trunk/WebUI/Mappers
+END
+Mapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/49/trunk/WebUI/Mappers/Mapper.cs
+END
+DinnerMapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/49/trunk/WebUI/Mappers/DinnerMapper.cs
+END
+IntsToEntities.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/48/trunk/WebUI/Mappers/IntsToEntities.cs
+END
+EntityToNullInt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/48/trunk/WebUI/Mappers/EntityToNullInt.cs
+END
+EntitiesToInts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/48/trunk/WebUI/Mappers/EntitiesToInts.cs
+END
+NormalToNullables.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/48/trunk/WebUI/Mappers/NormalToNullables.cs
+END
+NullablesToNormal.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/48/trunk/WebUI/Mappers/NullablesToNormal.cs
+END
+IMapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/49/trunk/WebUI/Mappers/IMapper.cs
+END
