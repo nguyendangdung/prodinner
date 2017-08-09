@@ -1,3 +1,4 @@
+https://scotch.io/bar-talk/getting-started-with-redux-an-intro
 prodinner 
 
 http://prodinner.codeplex.com
